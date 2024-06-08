@@ -1,4 +1,4 @@
-23653540438728603
+23660403025173308
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63636,6 +63636,20 @@ Yellow 5381 Series LED
 0
 2
 2
+MJ-4PP-9
+MJ-4PP-9
+
+
+0
+4
+4
+MJ-4PP-9
+MJ-4PP-9_no_silk
+
+
+0
+4
+4
 MX_Only
 MXOnly-1.5U
 
@@ -90397,6 +90411,13 @@ Logo WEEE
 0
 0
 0
+TPD4E05U06DQAR
+USON-10_L2.5-W1.0-P0.50-BL
+
+
+0
+10
+10
 TS-1187A-B-A-B
 SW_TS-1187A-B-A-B
 
@@ -96480,6 +96501,13 @@ OSC-SMD_4P-L3.2-W2.5-BL
 0
 4
 4
+mousebites
+mousebites
+
+
+0
+0
+0
 random-keyboard-parts
 D_SOD-123-Pretty
 SOD-123

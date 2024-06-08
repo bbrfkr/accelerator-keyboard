@@ -6,4 +6,7 @@
   (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/lib/TS-1187A-B-A-B")(options "")(descr ""))
   (lib (name "WS2812B")(type "KiCad")(uri "${KIPRJMOD}/lib/WS2812B.pretty")(options "")(descr ""))
   (lib (name "X322516MLB4SI")(type "KiCad")(uri "${KIPRJMOD}/lib/X322516MLB4SI")(options "")(descr ""))
+  (lib (name "MJ-4PP-9")(type "KiCad")(uri "${KIPRJMOD}/lib/MJ-4PP-9/MJ-4PP-9.pretty")(options "")(descr ""))
+  (lib (name "TPD4E05U06DQAR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPD4E05U06DQAR")(options "")(descr ""))
+  (lib (name "mousebites")(type "KiCad")(uri "${KIPRJMOD}/lib/mousebites.pretty")(options "")(descr ""))
 )

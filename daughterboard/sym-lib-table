@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "MJ-4PP-9")(type "Legacy")(uri "${KIPRJMOD}/lib/MJ-4PP-9/MJ-4PP-9-symbol/MJ-4PP-9.lib")(options "")(descr ""))
-  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/lib/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-)
